@@ -16,4 +16,4 @@ Sum up from all the observation forms. Then first think about possible reasons f
 ## Stuff missing?
 Need something else? Or you wan't the spreadsheets in a different format. [Create an issue](https://github.com/eklem/usability-testing-kit/issues/new) and we'll try to fix it.
 
-We have some issues created already. Feel free to [heck them out](https://github.com/eklem/usability-testing-kit/issues)!
+We have some issues created already. Feel free to [check them out](https://github.com/eklem/usability-testing-kit/issues)!
